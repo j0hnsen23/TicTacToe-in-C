@@ -1,5 +1,6 @@
 # TicTacToe in C
-- A school project focused on developing a fully functional Tic Tac Toe game using structured programming, functions, and custom variables.
+
+A school project focused on developing a fully functional Tic Tac Toe game using structured programming, functions, and custom variables.
 ---
 
 ## Features
